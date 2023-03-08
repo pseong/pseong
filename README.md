@@ -2,4 +2,4 @@
 <br>
 [![CodeForces Profile](https://cf.leed.at?id=pseong)](https://codeforces.com/profile/pseong)
 <br>
-[![CodeForces Profile](https://cf.leed.at?id=pseong)](https://codeforces.com/profile/gnoesp)
+[![CodeForces Profile](https://cf.leed.at?id=gnoesp)](https://codeforces.com/profile/gnoesp)
