@@ -1,12 +1,9 @@
-<h4> ✏️ Problem Solving </h4>
-<div align="center">
 <h4> ✏️ Baekjoon Online Judge </h4>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pseong)](https://solved.ac/pseong)
 <h4> ✏️ Codeforces </h4>
   
 [![CodeForces Profile](https://cf.leed.at?id=pseong)](https://codeforces.com/profile/pseong)
-</div>
 <h4> 🏆 Awards </h4>
   
 - 2023 슈퍼챌린지 소프트웨어 해커톤 2위 🎖️최우수상
