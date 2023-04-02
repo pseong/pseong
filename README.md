@@ -1,14 +1,14 @@
 <h4> 💻 Project </h4>
 
-<h5> Mamind - 심리 상담 플랫폼 </h5>
+<h4> Mamind - 심리 상담 플랫폼 </h4>
 
 - [repository](https://github.com/pseong/mamindBackSpring)
 
-<h5> StopBanner - 현수막 통계 </h5>
+<h4> StopBanner - 현수막 통계 </h4>
 
 - [repository](https://github.com/pseong/stop-banner-backend)
 
-<h5> Pickple - 하루에 3가지 선택과 집중 </h5>
+<h4> Pickple - 하루에 3가지 선택과 집중 </h4>
 
 - [repository](https://github.com/pseong/pick-three-backend)
 
