@@ -1,3 +1,17 @@
+<h4> 💻 Project </h4>
+
+<h5> Mamind - 심리 상담 플랫폼 </h5>
+
+- [repository](https://github.com/pseong/mamindBackSpring)
+
+<h5> StopBanner - 현수막 통계 </h5>
+
+- [repository](https://github.com/pseong/stop-banner-backend)
+
+<h5> Pickple - 하루에 3가지 선택과 집중 </h5>
+
+- [repository](https://github.com/pseong/pick-three-backend)
+
 <h4> ✏️ Baekjoon Online Judge </h4>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pseong)](https://solved.ac/pseong)
