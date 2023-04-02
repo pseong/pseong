@@ -31,4 +31,3 @@
 <h4>:book: Github Stats</h4>
 
 [![Seonguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=pseong&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=buefy)](https://github.com/pseong/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pseong&layout=compact)](https://github.com/pseong/github-readme-stats)
