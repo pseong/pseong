@@ -24,7 +24,7 @@
 [![CodeForces Profile](https://cf.leed.at?id=pseong)](https://codeforces.com/profile/pseong)
 <h4> 🏆 Awards </h4>
 
-- 2023 <a href="https://raw.githubusercontent.com/pseong/pseong/dca505776ff41401fa9cce468996b0fe60c2ee8b/images/2023GLITCHHACKATHON.png">글리치 블록체인 WEB3 해커톤</a> 3위 🎖️3rd상
+- 2023 <a href="https://raw.githubusercontent.com/pseong/pseong/dca505776ff41401fa9cce468996b0fe60c2ee8b/images/2023GLITCHHACKATHON.png">글리치 블록체인 WEB3 해커톤 니어 프로토콜 트랙</a> 3위 🎖️3rd상
 
 - 2023 <a href="https://github.com/pseong/pseong/blob/main/images/2022%EA%B2%BD%EC%9D%B8%EC%A7%80%EC%97%AD6%EA%B0%9C%EB%8C%80%ED%95%99%EC%97%B0%ED%95%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B2%BD%EC%8B%9C%EB%8C%80%ED%9A%8C.jpg?raw=true">경인지역 6개 대학 연합 프로그래밍 경시대회</a> 2위 🎖️최우수상
 
