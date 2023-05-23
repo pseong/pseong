@@ -1,8 +1,9 @@
 <h4> 💻 Projects </h4>
 
-<h4> Mamind - 심리 상담 플랫폼 </h4>
+<h4> FlipDash - 니어 프로토콜 카드 게임 </h4>
 
-- [repository](https://github.com/pseong/mamindBackSpring)
+- [repository](https://github.com/pseong/blockchain-near-game)
+- [repository](https://github.com/pseong/blockchain-near-api)
 
 <h4> StopBanner - 현수막 통계 </h4>
 
@@ -15,6 +16,10 @@
 <h4> OnePunch - 벽부수기 게임 </h4>
 
 - [repository](https://github.com/pseong/PunchMan)
+
+<h4> Mamind - 심리 상담 플랫폼 </h4>
+
+- [repository](https://github.com/pseong/mamindBackSpring)
 
 <h4> ✏️ Baekjoon Online Judge </h4>
   
