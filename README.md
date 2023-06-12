@@ -38,7 +38,3 @@
 - 2022.11 <a href="https://github.com/pseong/pseong/blob/main/images/2022%ED%95%9C%EA%B5%AD%EB%8C%80%ED%95%99%EC%83%9D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B2%BD%EC%8B%9C%EB%8C%80%ED%9A%8C.jpg?raw=true">한국대학생 프로그래밍 경시대회 본선 ICPC</a> 35위
   
 - 2022.05 <a href="https://github.com/pseong/pseong/blob/main/images/2022%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.jpg?raw=true">인하대학교 프로그래밍 경진대회 IUPC</a> 3위 🎖️금상
-
-<h4>:book: Github Stats</h4>
-
-[![Seonguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=pseong&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=buefy)](https://github.com/pseong/github-readme-stats)
