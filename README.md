@@ -17,10 +17,6 @@
 
 - [repository](https://github.com/pseong/PunchMan)
 
-<h4> Mamind - 심리 상담 플랫폼 </h4>
-
-- [repository](https://github.com/pseong/mamindBackSpring)
-
 <h4> ✏️ Baekjoon Online Judge </h4>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pseong)](https://solved.ac/pseong)
