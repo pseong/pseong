@@ -25,7 +25,7 @@
 [![CodeForces Profile](https://cf.leed.at?id=pseong)](https://codeforces.com/profile/pseong)
 <h4> 🏆 Awards </h4>
 
-- 2023.05 <a href="https://raw.githubusercontent.com/pseong/pseong/main/images/%E1%84%8C%E1%85%A61%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A1%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%E1%84%87%E1%85%A6%E1%86%AB%E1%84%8E%E1%85%A5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%83%E1%85%A6%E1%84%86%E1%85%B5%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC.jpg">인하대학교 벤처스타트업 아카데미 프로그래밍 경진대회</a> 2위🎖️은상
+- 2023.07 <a href="https://raw.githubusercontent.com/pseong/pseong/main/images/%E1%84%8C%E1%85%A61%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A1%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%E1%84%87%E1%85%A6%E1%86%AB%E1%84%8E%E1%85%A5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%83%E1%85%A6%E1%84%86%E1%85%B5%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC%E1%84%80%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC.jpg">인하대학교 벤처스타트업 아카데미 프로그래밍 경진대회</a> 2위🎖️은상
 
 - 2023.05 <a href="https://raw.githubusercontent.com/pseong/pseong/dca505776ff41401fa9cce468996b0fe60c2ee8b/images/2023GLITCHHACKATHON.png">글리치 블록체인 WEB3 해커톤 니어 프로토콜 트랙</a> 3위 🎖️3rd상
 
