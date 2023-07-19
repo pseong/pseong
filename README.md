@@ -37,4 +37,4 @@
   
 - 2022.05 <a href="https://github.com/pseong/pseong/blob/main/images/2022%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.jpg?raw=true">제 8회 인하대학교 프로그래밍 경진대회 IUPC</a> 개인 3위 🎖️금상 <a href="https://www.acmicpc.net/contest/spotboard/779">순위</a>
 
-- 2021.10 <a href="https://github.com/pseong/pseong/blob/main/images/2022%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.jpg?raw=true">인하대학교 프로그래밍 경진대회 IUPC</a> 팀 3위 🎖은상 <a href="https://www.acmicpc.net/contest/spotboard/706">순위</a>
+- 2021.10 <a href="https://github.com/pseong/pseong/blob/main/images/2022%EC%9D%B8%ED%95%98%EB%8C%80%ED%95%99%EA%B5%90%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.jpg?raw=true">인하대학교 프로그래밍 경진대회 IUPC</a> 팀 3위 🎖은상 <a href="https://www.acmicpc.net/contest/view/706">순위</a>
