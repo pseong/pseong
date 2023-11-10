@@ -1,22 +1,3 @@
-<h4> 💻 Projects </h4>
-
-<h4> FlipDash - 니어 프로토콜 카드 게임 </h4>
-
-- [repository](https://github.com/pseong/blockchain-near-game)
-- [repository](https://github.com/pseong/blockchain-near-api)
-
-<h4> StopBanner - 현수막 통계 </h4>
-
-- [repository](https://github.com/pseong/stop-banner-backend)
-
-<h4> Pickple - 하루에 3가지 선택과 집중 </h4>
-
-- [repository](https://github.com/pseong/pick-three-backend)
-
-<h4> OnePunch - 벽부수기 게임 </h4>
-
-- [repository](https://github.com/pseong/PunchMan)
-
 <h4> ✏️ Baekjoon Online Judge </h4>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pseong)](https://solved.ac/pseong)
